@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5ce58a65-e97a-4591-bbc6-af44dde437c6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gatling_Blaze_Demo.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ZxnmE049h5g5AuMRNzW8I8QGiW" />
+  <component name="ProjectViewState">
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ce58a65-e97a-4591-bbc6-af44dde437c6" name="Default Changelist" comment="" />
+      <created>1585789769842</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585789769842</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1878" height="261" key="GridCell.Tab.0.bottom" timestamp="1585852555398">
+      <screen x="1280" y="23" width="1920" height="992" />
+    </state>
+    <state width="1878" height="261" key="GridCell.Tab.0.bottom/1280.23.1920.992/0.23.1280.777@1280.23.1920.992" timestamp="1585852555398" />
+    <state width="1878" height="261" key="GridCell.Tab.0.center" timestamp="1585852555397">
+      <screen x="1280" y="23" width="1920" height="992" />
+    </state>
+    <state width="1878" height="261" key="GridCell.Tab.0.center/1280.23.1920.992/0.23.1280.777@1280.23.1920.992" timestamp="1585852555397" />
+    <state width="1878" height="261" key="GridCell.Tab.0.left" timestamp="1585852555397">
+      <screen x="1280" y="23" width="1920" height="992" />
+    </state>
+    <state width="1878" height="261" key="GridCell.Tab.0.left/1280.23.1920.992/0.23.1280.777@1280.23.1920.992" timestamp="1585852555397" />
+    <state width="1878" height="261" key="GridCell.Tab.0.right" timestamp="1585852555398">
+      <screen x="1280" y="23" width="1920" height="992" />
+    </state>
+    <state width="1878" height="261" key="GridCell.Tab.0.right/1280.23.1920.992/0.23.1280.777@1280.23.1920.992" timestamp="1585852555398" />
+    <state x="1669" y="216" key="new project wizard" timestamp="1585849020611">
+      <screen x="1280" y="23" width="1920" height="992" />
+    </state>
+    <state x="1669" y="216" key="new project wizard/1280.23.1920.992/0.23.1280.777@1280.23.1920.992" timestamp="1585849020611" />
+  </component>
+</project>
